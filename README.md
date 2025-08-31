@@ -1,7 +1,7 @@
 # Social Media API - Foundation Setup
 
 ## Project Description
-This Django REST Framework project provides the foundation for a social media API with user authentication.
+This Django REST Framework project provides the foundation for a social media API with user authentication
 
 ## Features
 - Custom User model extending AbstractUser
